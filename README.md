@@ -2,7 +2,7 @@
 
 基于 RapidOCR 的文字识别演示应用，提供简洁易用的 Web 界面进行 OCR 测试验证。
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WalleV/rapidocr-colab-demo/blob/main/main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WalleV/rapidocr-colab-demo/blob/master/main.ipynb)
 
 ## 功能特性
 
